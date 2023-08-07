@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bias
-- 👀 I’m interested in Front-End and UI/UX, HTML CSS JS
+- 👀 I’m interested in Front-End and UI/UX, HTML CSS JS SVG
 - 🌱 I’m currently learning HTML CSS JS, Figma, Django, Python
 - 💞️ I’m looking to collaborate on making some fake project *for portofolio
 - 📫 How to reach me send me a message
